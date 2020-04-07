@@ -3,7 +3,7 @@ About pydecorate
 
 Home: https://github.com/pytroll/pydecorate
 
-Package license: GPL-3.0-only
+Package license: GPL-3.0-or-later
 
 Feedstock license: BSD 3-Clause
 
