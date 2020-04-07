@@ -1,5 +1,5 @@
 {% set name = "pydecorate" %}
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 5296b698cca156fa672ed166087bb5d21b23a72c69cd45f65e6d71c32cb13caf
+  sha256: 5110be42f0f2a58e2b1ea22ac6838b47f021402cf79fa0ec911ce7fb4243e54d
 
 build:
   number: 0
